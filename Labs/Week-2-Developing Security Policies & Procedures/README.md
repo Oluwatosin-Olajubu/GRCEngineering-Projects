@@ -13,4 +13,4 @@ Scenario: I'm the newly appointed Information Security Manager at NexusTech Solu
 | [`bundle-3-access-procedure.md`](bundle-3-access-procedure.md) | The User Access Request Procedure for Helpdesk |
 | [`bundle-4-comms-training.md`](bundle-4-comms-training.md) | The rollout plan for getting staff to actually read and follow the AUP |
 | [`bundle-5-review-memo.md`](bundle-5-review-memo.md) | A review memo triggered a year later by the AWS migration and a data-handling incident |
-| `hierarchy_diagram.png` | The diagram referenced in Bundle 1 — keep it in this folder so it renders in the markdown |
+
