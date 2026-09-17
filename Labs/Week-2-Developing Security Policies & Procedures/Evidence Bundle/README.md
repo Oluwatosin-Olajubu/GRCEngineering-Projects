@@ -1,25 +1,27 @@
-# Evidence Bundle — Security Policy Framework
+# Evidence Bundle — Security Policy Documentation
 
-This folder contains the five DOCX evidence documents supporting the GRC102 Week 2 practical lab, Developing Security Policies and Procedures.
+This folder contains the supporting evidence files for the Week 2 practical lab on developing security policies and procedures.
 
-## Documents
+## Files in this folder
 
-| Exact uploaded filename | Purpose |
+| Exact filename | Description |
 |---|---|
-| [`GRC102_W2_Evidence_Bundle_1_Hierarchy.docx`](GRC102_W2_Evidence_Bundle_1_Hierarchy.docx) | Defines the difference between a policy, standard, guideline, and procedure; classifies the draft statements; and presents the security documentation hierarchy. |
-| [`GRC102_W2_Evidence_Bundle_2_Acceptable_Use_Policy.docx`](GRC102_W2_Evidence_Bundle_2_Acceptable_Use_Policy.docx) | Provides the Acceptable Use Policy for company systems, devices, networks, and information resources. |
-| [`GRC102_W2_Evidence_Bundle_3_User_Access_Request_Procedure.docx`](GRC102_W2_Evidence_Bundle_3_User_Access_Request_Procedure.docx) | Documents the Helpdesk process for requesting, approving, provisioning, changing, and removing user access. |
-| [`GRC102_W2_Evidence_Bundle_4_Communication_Training_Plan.docx`](GRC102_W2_Evidence_Bundle_4_Communication_Training_Plan.docx) | Defines how the policy will be communicated, taught, acknowledged, and reinforced across the organization. |
-| [`GRC102_W2_Evidence_Bundle_5_Policy_Review_Memo.docx`](GRC102_W2_Evidence_Bundle_5_Policy_Review_Memo.docx) | Records the policy review and recommended updates following an AWS migration and a data-handling incident. |
+| [`GRC102_W2_Evidence_Bundle_1_Hierarchy.docx.pdf`](GRC102_W2_Evidence_Bundle_1_Hierarchy.docx.pdf) | Governance hierarchy and policy structure evidence. |
+| [`GRC102_W2_Evidence_Bundle_2_Acceptable_Use_Policy.docx.pdf`](GRC102_W2_Evidence_Bundle_2_Acceptable_Use_Policy.docx.pdf) | Acceptable Use Policy evidence. |
+| [`GRC102_W2_Evidence_Bundle_3_User_Access_Request_Procedure.docx.pdf`](GRC102_W2_Evidence_Bundle_3_User_Access_Request_Procedure.docx.pdf) | User access request procedure evidence. |
+| [`GRC102_W2_Evidence_Bundle_4_Communication_Training_Plan.docx.pdf`](GRC102_W2_Evidence_Bundle_4_Communication_Training_Plan.docx.pdf) | Communications and training plan evidence. |
+| [`GRC102_W2_Evidence_Bundle_5_Policy_Review_Memo.docx.pdf`](GRC102_W2_Evidence_Bundle_5_Policy_Review_Memo.docx.pdf) | Policy review memo evidence. |
 
-## Relationship to the lab
+## Purpose of this bundle
 
-Together, these documents show the complete policy lifecycle:
+These documents support the Week 2 lab exercise focused on developing and organizing security policy documentation for NexusTech Solutions. They show the full policy lifecycle:
 
-1. Establish the documentation hierarchy.
-2. Create the Acceptable Use Policy.
-3. Translate policy requirements into an access procedure.
-4. Communicate and train personnel.
-5. Review and improve the framework when risks or business conditions change.
+1. Define the documentation hierarchy.
+2. Develop the Acceptable Use Policy.
+3. Document the user access request procedure.
+4. Plan communication and user training.
+5. Review and update policy documents in response to change.
 
-The filenames in this README match the repository filenames exactly.
+## Related folder
+
+The Week 2 report is stored in the [`../Report/`](../Report/) folder.
