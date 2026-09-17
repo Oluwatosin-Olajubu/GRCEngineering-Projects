@@ -15,11 +15,11 @@ This folder contains the GRC102 Week 2 practical lab for Developing Security Pol
 
 The Evidence Bundle contains the following uploaded DOCX documents:
 
-1. [`GRC102_W2_Evidence_Bundle_1_Hierarchy.docx`](Evidence%20Bundle/GRC102_W2_Evidence_Bundle_1_Hierarchy.docx) — Security documentation hierarchy.
-2. [`GRC102_W2_Evidence_Bundle_2_Acceptable_Use_Policy.docx`](Evidence%20Bundle/GRC102_W2_Evidence_Bundle_2_Acceptable_Use_Policy.docx) — Acceptable Use Policy.
-3. [`GRC102_W2_Evidence_Bundle_3_User_Access_Request_Procedure.docx`](Evidence%20Bundle/GRC102_W2_Evidence_Bundle_3_User_Access_Request_Procedure.docx) — User Access Request Procedure.
-4. [`GRC102_W2_Evidence_Bundle_4_Communication_Training_Plan.docx`](Evidence%20Bundle/GRC102_W2_Evidence_Bundle_4_Communication_Training_Plan.docx) — Communication and training plan.
-5. [`GRC102_W2_Evidence_Bundle_5_Policy_Review_Memo.docx`](Evidence%20Bundle/GRC102_W2_Evidence_Bundle_5_Policy_Review_Memo.docx) — Policy review memo.
+1. [`GRC102_W2_Evidence_Bundle_1_Hierarchy.docx.pdf`](Evidence%20Bundle/GRC102_W2_Evidence_Bundle_1_Hierarchy.docx.pdf) — Governance hierarchy and policy structure evidence.
+2. [`GRC102_W2_Evidence_Bundle_2_Acceptable_Use_Policy.docx.pdf`](Evidence%20Bundle/GRC102_W2_Evidence_Bundle_2_Acceptable_Use_Policy.docx.pdf) — Acceptable Use Policy evidence.
+3. [`GRC102_W2_Evidence_Bundle_3_User_Access_Request_Procedure.docx.pdf`](Evidence%20Bundle/GRC102_W2_Evidence_Bundle_3_User_Access_Request_Procedure.docx.pdf) — User access request procedure evidence.
+4. [`GRC102_W2_Evidence_Bundle_4_Communication_Training_Plan.docx.pdf`](Evidence%20Bundle/GRC102_W2_Evidence_Bundle_4_Communication_Training_Plan.docx.pdf) — Communication and training plan evidence.
+5. [`GRC102_W2_Evidence_Bundle_5_Policy_Review_Memo.docx.pdf`](Evidence%20Bundle/GRC102_W2_Evidence_Bundle_5_Policy_Review_Memo.docx.pdf) — Policy review memo evidence.
 
 ## Report
 
