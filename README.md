@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a **GRC Engineer & Cybersecurity Practitioner** with 4+ years of hands-on experience in Governance, Risk, and Compliance. 
+I'm a **GRC Engineer & Cybersecurity Practitioner** with years of hands-on experience in Governance, Risk, and Compliance. 
 
 ### My Mission
 
