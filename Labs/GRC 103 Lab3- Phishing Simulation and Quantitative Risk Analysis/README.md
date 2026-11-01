@@ -22,6 +22,7 @@ As the team lead, I was given results from three phishing simulations at a ficti
 | --- | --- |
 | `Lab3_Calculation_Workbook.xlsx` | The calculation workbook. 9 sheets, 547 live formulas, no formula errors. |
 | `Lab3_Report.docx.pdf` | The written report (executive briefing, method, results, errors found, limitations, references). Export it from the report doc and add it here. |
+| `Lab 3A` | The lab instruction itself.
 | `README.md` | This file. |
 
 ## Workbook guide
