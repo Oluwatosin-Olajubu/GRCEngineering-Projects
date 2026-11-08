@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Student** | [full name] |
+| **Student** | Oluwatosin Olajubu |
 | **Scenario** | GRC analyst and technical control implementer, Northbridge Services (fictional) |
 | **Lab dates** | 5–7 November 2026 |
 
