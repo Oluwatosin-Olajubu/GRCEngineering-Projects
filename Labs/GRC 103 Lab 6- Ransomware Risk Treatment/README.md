@@ -12,7 +12,7 @@ Real HSE incident facts are kept separate from the fictional Northbridge assumpt
 
 | File | Description |
 |---|---|
-| `GRC103_Lab2_Ransomware_Risk_Treatment_Report.pdf` | Submission report (3 pages) |
+| `GRC103_Lab2_Ransomware_Risk_Treatment_Report.pdf` | Submission report (4 pages) |
 | `GRC103_Lab2_Risk_Register_Budget_Insurance.xlsx` | Workbook with live formulas, dropdowns and colour coding |
 
 ## The five tasks
