@@ -1,4 +1,4 @@
-# Practical Risk Monitoring with Wazuh
+# Practical Risk Monitoring with Wazuh- File Integrity Monitoring
 
 A hands-on Governance, Risk and Compliance (GRC) laboratory
 demonstrating how **Wazuh File Integrity Monitoring (FIM)** can detect
